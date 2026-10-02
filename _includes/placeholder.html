@@ -1,0 +1,10 @@
+{%- comment -%}
+  Renders a front-matter value. The searchable placeholder is the literal
+  string **TBD** (quoted in YAML). On the page it appears as bold TBD.
+{%- endcomment -%}
+{%- assign raw = include.value | append: "" | strip -%}
+{%- if raw == "**TBD**" or raw == "TBD" or raw == "" -%}
+<strong class="tbd">TBD</strong>
+{%- else -%}
+{{ raw }}
+{%- endif -%}

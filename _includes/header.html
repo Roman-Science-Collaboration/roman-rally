@@ -1,0 +1,25 @@
+<a class="skip" href="#content">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-bar">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+        <rect width="32" height="32" rx="7" fill="currentColor"/>
+        <path d="M5 13.25h22M5 18.75h22" stroke="#f7f2fc" stroke-width="1.5"/>
+        <rect x="13.5" y="9" width="5" height="14" fill="#e6d4f6"/>
+      </svg>
+      <span class="brand-text">
+        <span class="brand-name">Roman Rally</span>
+        <span class="brand-sub">Working meetings</span>
+      </span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <ul>
+        <li><a href="{{ '/about/' | relative_url }}" {% if page.url == "/about/" %}aria-current="page"{% endif %}>About</a></li>
+        <li><a href="{{ '/events/' | relative_url }}" {% if page.url contains "/events/" %}aria-current="page"{% endif %}>Events</a></li>
+        <li><a href="{{ '/participation/' | relative_url }}" {% if page.url == "/participation/" %}aria-current="page"{% endif %}>Participate</a></li>
+        <li><a href="{{ '/code-of-conduct/' | relative_url }}" {% if page.url == "/code-of-conduct/" %}aria-current="page"{% endif %}>Conduct</a></li>
+        <li><a href="{{ '/contact/' | relative_url }}" {% if page.url == "/contact/" %}aria-current="page"{% endif %}>Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>

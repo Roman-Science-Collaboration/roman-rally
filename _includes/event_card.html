@@ -1,0 +1,31 @@
+{%- assign event = include.event -%}
+<article class="card">
+  <p class="card-status">{{ event.status | capitalize }}</p>
+  <h3 class="card-title"><a href="{{ event.url | relative_url }}">{{ event.title }}</a></h3>
+  {% if event.summary %}
+  <p class="card-summary">{{ event.summary }}</p>
+  {% endif %}
+  <dl class="card-facts">
+    <div>
+      <dt>Dates</dt>
+      <dd>{% include placeholder.html value=event.date_display %}</dd>
+    </div>
+    <div>
+      <dt>City</dt>
+      <dd>{% include placeholder.html value=event.city %}</dd>
+    </div>
+    <div>
+      <dt>Venue</dt>
+      <dd>{% include placeholder.html value=event.venue %}</dd>
+    </div>
+    <div>
+      <dt>Host</dt>
+      <dd>{% include placeholder.html value=event.host_institution %}</dd>
+    </div>
+    <div>
+      <dt>Apply by</dt>
+      <dd>{% include placeholder.html value=event.application_deadline %}</dd>
+    </div>
+  </dl>
+  <p class="card-more"><a href="{{ event.url | relative_url }}">Event page</a></p>
+</article>

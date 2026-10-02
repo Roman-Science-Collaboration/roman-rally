@@ -1,0 +1,13 @@
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <p class="footer-brand">Roman Rally is organized by the <a href="https://outerspace.stsci.edu/spaces/RSCPUB/pages/286851875/Roman+Science+Collaboration+RSC+Public+Page+Home">Roman Science Collaboration</a>. Mission announcements stay on <a href="https://science.nasa.gov/blogs/roman/">NASA's Roman pages</a>.</p>
+    <ul class="footer-links">
+      <li><a href="{{ '/code-of-conduct/' | relative_url }}">Code of conduct</a></li>
+      <li><a href="{{ '/participation/' | relative_url }}">Participation</a></li>
+      <li><a href="https://github.com/Roman-Science-Collaboration/roman-rally">Repository</a></li>
+      {% if page.path %}
+      <li><a href="https://github.com/Roman-Science-Collaboration/roman-rally/edit/main/{{ page.path }}">Edit this page</a></li>
+      {% endif %}
+    </ul>
+  </div>
+</footer>

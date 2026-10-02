@@ -1,0 +1,78 @@
+---
+layout: default
+---
+<header class="page-header">
+  <p class="kicker">{{ page.status | capitalize }} event</p>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary %}
+  <p class="lede">{{ page.summary }}</p>
+  {% endif %}
+</header>
+
+<div class="event-layout">
+  <aside class="facts" aria-label="Practical details">
+    <h2 class="facts-title">At a glance</h2>
+    <dl>
+      <div>
+        <dt>Dates</dt>
+        <dd>{% include placeholder.html value=page.date_display %}</dd>
+      </div>
+      <div>
+        <dt>City</dt>
+        <dd>{% include placeholder.html value=page.city %}</dd>
+      </div>
+      <div>
+        <dt>Venue</dt>
+        <dd>{% include placeholder.html value=page.venue %}</dd>
+      </div>
+      <div>
+        <dt>Host institution</dt>
+        <dd>{% include placeholder.html value=page.host_institution %}</dd>
+      </div>
+      <div>
+        <dt>Capacity</dt>
+        <dd>{% include placeholder.html value=page.capacity %}</dd>
+      </div>
+      <div>
+        <dt>Application deadline</dt>
+        <dd>{% include placeholder.html value=page.application_deadline %}</dd>
+      </div>
+      <div>
+        <dt>How to apply</dt>
+        <dd>
+          {%- if page.application_url contains "http" -%}
+          <a href="{{ page.application_url }}">Application form</a>
+          {%- else -%}
+          {% include placeholder.html value=page.application_url %}
+          {%- endif -%}
+        </dd>
+      </div>
+      <div>
+        <dt>Funding</dt>
+        <dd>{% include placeholder.html value=page.funding %}</dd>
+      </div>
+      <div>
+        <dt>Logistics</dt>
+        <dd>{% include placeholder.html value=page.logistics %}</dd>
+      </div>
+    </dl>
+
+    <h3>Scientific Organizing Committee</h3>
+    <ul class="people">
+      {% for person in page.soc %}
+      <li>{% include placeholder.html value=person %}</li>
+      {% endfor %}
+    </ul>
+
+    <h3>Local Organizing Committee</h3>
+    <ul class="people">
+      {% for person in page.loc %}
+      <li>{% include placeholder.html value=person %}</li>
+      {% endfor %}
+    </ul>
+  </aside>
+
+  <article class="prose">
+    {{ content }}
+  </article>
+</div>
