@@ -1,6 +1,7 @@
 /* Roman Rally
-   Light limestone page, terracotta accent, self-hosted Source fonts (SIL OFL).
-   The mark is a milestone on two road lines. No mission or agency logos. */
+   Light page with a violet accent in the hue of the Roman mission pages.
+   Self-hosted Source fonts (SIL OFL). The mark is a milestone on two road
+   lines. No mission or agency logos. */
 
 @font-face {
   font-family: "Source Serif 4";
@@ -44,21 +45,19 @@
 
 :root {
   color-scheme: light;
-  --bg: #f3eee4;
-  --bg-glow: #efe2cc;
-  --raised: #fbf7f0;
-  --ink: #241c16;
-  --muted: #4e453c;
-  --line: #e0d4c4;
-  --terra: #8c3b2a;
-  --terra-deep: #6d2b1d;
-  --gold: #a6843d;
-  --gold-soft: #e6d3a1;
+  --bg: #f4f1f8;
+  --bg-glow: #e4daf2;
+  --raised: #fcfaff;
+  --ink: #1c1524;
+  --muted: #4a4158;
+  --line: #ddd4e8;
+  --accent: #643092;
+  --accent-deep: #4f2774;
   --serif: "Source Serif 4", "Iowan Old Style", Palatino, Georgia, serif;
   --sans: "Source Sans 3", "Segoe UI", sans-serif;
   --measure: 40rem;
   --wrap: 68rem;
-  --shadow: 0 1px 0 rgba(36, 28, 22, 0.04);
+  --shadow: 0 1px 0 rgba(28, 21, 36, 0.05);
 }
 
 *,
@@ -81,7 +80,7 @@ body {
   font-family: var(--sans);
   font-size: 1.0625rem;
   line-height: 1.65;
-  border-top: 7px solid var(--terra-deep);
+  border-top: 7px solid var(--accent-deep);
 }
 
 img,
@@ -90,20 +89,20 @@ svg {
 }
 
 a {
-  color: var(--terra-deep);
+  color: var(--accent-deep);
 }
 
 a:hover {
-  color: var(--terra);
+  color: var(--accent);
 }
 
 :focus-visible {
-  outline: 2px solid var(--terra);
+  outline: 2px solid var(--accent);
   outline-offset: 3px;
 }
 
 ::selection {
-  background: #e7cfc4;
+  background: #e4d6f2;
 }
 
 .skip {
@@ -129,7 +128,7 @@ a:hover {
 .site-header {
   padding: 1.1rem 0 0.85rem;
   border-bottom: 1px solid var(--line);
-  background: rgba(251, 247, 240, 0.78);
+  background: rgba(252, 250, 255, 0.86);
 }
 
 .header-bar {
@@ -152,7 +151,7 @@ a:hover {
   width: 2.4rem;
   height: 2.4rem;
   flex: none;
-  color: var(--terra-deep);
+  color: var(--accent-deep);
 }
 
 .brand-name {
@@ -194,13 +193,13 @@ a:hover {
 }
 
 .site-nav a:hover {
-  background: rgba(140, 59, 42, 0.08);
-  color: var(--terra-deep);
+  background: rgba(79, 39, 116, 0.08);
+  color: var(--accent-deep);
 }
 
 .site-nav a[aria-current="page"] {
-  color: var(--terra-deep);
-  box-shadow: inset 0 -2px 0 var(--terra);
+  color: var(--accent-deep);
+  box-shadow: inset 0 -2px 0 var(--accent);
   border-radius: 0;
 }
 
@@ -220,7 +219,7 @@ main {
   font-weight: 600;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--terra);
+  color: var(--accent);
 }
 
 h1,
@@ -284,8 +283,8 @@ h3 {
 .button {
   display: inline-block;
   padding: 0.62rem 1rem;
-  background: var(--terra-deep);
-  color: #fbf7f0;
+  background: var(--accent-deep);
+  color: #fcfaff;
   text-decoration: none;
   font-weight: 600;
   border-radius: 4px;
@@ -293,19 +292,19 @@ h3 {
 }
 
 .button:hover {
-  background: var(--terra);
+  background: var(--accent);
   color: #fff;
 }
 
 .button-ghost {
   background: transparent;
-  color: var(--terra-deep);
-  box-shadow: inset 0 0 0 1.5px var(--terra-deep);
+  color: var(--accent-deep);
+  box-shadow: inset 0 0 0 1.5px var(--accent-deep);
 }
 
 .button-ghost:hover {
-  background: rgba(140, 59, 42, 0.08);
-  color: var(--terra-deep);
+  background: rgba(79, 39, 116, 0.08);
+  color: var(--accent-deep);
 }
 
 .prose {
@@ -323,7 +322,7 @@ h3 {
 
 .prose strong,
 .tbd {
-  color: var(--terra-deep);
+  color: var(--accent-deep);
   font-weight: 600;
   letter-spacing: 0.03em;
 }
@@ -331,7 +330,7 @@ h3 {
 code {
   font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
   font-size: 0.9em;
-  background: rgba(36, 28, 22, 0.06);
+  background: rgba(28, 21, 36, 0.06);
   padding: 0.08em 0.32em;
   border-radius: 3px;
 }
@@ -349,7 +348,7 @@ code {
   padding: 1.05rem 1.1rem 1.15rem;
   background: var(--raised);
   border: 1px solid var(--line);
-  border-top: 3px solid var(--terra);
+  border-top: 3px solid var(--accent);
 }
 
 .principles h2 {
@@ -378,7 +377,7 @@ code {
 
 .card {
   padding: 1.15rem 1.2rem 1rem;
-  border-left: 4px solid var(--terra);
+  border-left: 4px solid var(--accent);
 }
 
 .card-title {
@@ -392,7 +391,7 @@ code {
 }
 
 .card-title a:hover {
-  color: var(--terra-deep);
+  color: var(--accent-deep);
 }
 
 .card-summary {

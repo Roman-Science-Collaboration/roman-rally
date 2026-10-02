@@ -23,8 +23,9 @@ kramdown:
 permalink: pretty
 timezone: Etc/UTC
 
-# No theme. Layouts in _layouts/ draw the site.
-# (A theme would replace this look the next time someone edits _config.yml.)
+# GitHub Pages defaults to jekyll-theme-primer, whose stylesheet is also
+# assets/css/style.css and would replace this site's CSS. null turns that off.
+theme: null
 
 collections:
   events:

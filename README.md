@@ -134,7 +134,7 @@ assets/fonts/               Source Serif 4 and Source Sans 3 (SIL Open Font Lice
 
 The header wordmark is CSS plus a small inline SVG (a milestone on two road lines). Please do not add the NASA insignia, the Roman mission logo, or other agency marks. This is a community site.
 
-Colors and type live in `assets/css/style.css`. Favor the limestone background and the terracotta accent already there.
+Colors and type live in `assets/css/style.css`. Favor the light background and the violet accent already there.
 
 ## License of the fonts
 
