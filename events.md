@@ -8,7 +8,7 @@ permalink: /events/
 <header class="page-header">
   <p class="kicker">Calendar</p>
   <h1>Events</h1>
-  <p class="lede">One page per meeting. Upcoming Rallies are announced here when a host and a season are real enough to say out loud. Past Rallies stay here afterward, with a short note on the work.</p>
+  <p class="lede">One page per meeting. Upcoming Rallies are announced here when a host and a date become real. Past Rallies stay here afterward, with a short note on the work.</p>
 </header>
 
 <section aria-labelledby="upcoming-heading">
@@ -17,7 +17,7 @@ permalink: /events/
   {% assign upcoming = site.events | where: "status", "upcoming" | sort: "sort_date" %}
   {% if upcoming.size == 0 %}
     <div class="empty">
-      <p>The next Rally is <strong class="tbd">TBD</strong>.</p>
+      <p>The next Rally is <strong class="tbd">Dec 14-18, 2026</strong>.</p>
     </div>
   {% else %}
     {% for event in upcoming %}
