@@ -1,0 +1,54 @@
+# Roman Rally
+# Plain-Markdown site for GitHub Pages. Pages live in the repository root.
+# Events live in _events/, one file per meeting.
+
+title: Roman Rally
+description: >
+  Hackathon-style working meetings on commissioning and first-look data
+  from NASA's Nancy Grace Roman Space Telescope, organized by the
+  Roman Science Collaboration.
+
+# Project site: https://roman-science-collaboration.github.io/roman-rally/
+url: "https://roman-science-collaboration.github.io"
+baseurl: "/roman-rally"
+
+repository: Roman-Science-Collaboration/roman-rally
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
+permalink: pretty
+timezone: Etc/UTC
+
+# No theme. Layouts in _layouts/ draw the site.
+# (A theme would replace this look the next time someone edits _config.yml.)
+
+collections:
+  events:
+    output: true
+    permalink: /events/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: event
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+  - node_modules
+  - assets/fonts/OFL-source-serif.txt
+  - assets/fonts/OFL-source-sans.txt
