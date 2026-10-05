@@ -21,6 +21,7 @@ Unset facts are written as `**TBD**` (bold TBD on the site). Search the reposito
    | About and philosophy | `about.md` |
    | Events list | `events.md` |
    | Participation and FAQ | `participation.md` |
+   | Site handbook | `handbook.md` |
    | Code of conduct | `code-of-conduct.md` |
    | Contact | `contact.md` |
    | A single meeting | `_events/some-name.md` |
@@ -121,6 +122,7 @@ Search the repository for `**TBD**`. Those strings are the facts still missing: 
 
 ```
 _config.yml                 site title, URL, and the events collection
+handbook.md                 notes for hosts and satellite sites
 _events/                    one Markdown file per meeting
 _events/TEMPLATE.md         copy this to add a meeting (stays unpublished)
 _layouts/                   HTML shells

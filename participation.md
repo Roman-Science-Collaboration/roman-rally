@@ -45,6 +45,6 @@ permalink: /participation/
   <p>Rules for commissioning and early products are set by the mission. All public data products are in bounds.</p>
 
   <h3>Can my institution host a Rally Room?</h3>
-  <p>Yes! A Rally Room is a smaller gathering held at the same time and on approximately the same schedule as the main Rally, for people who cannot travel as far. Write via the <a href="{{ '/contact/' | relative_url }}">contact page</a> with a city, local organizer, and the institution and room you have in mind. Organizers must be able to arrange a small meeting space and do some local advertising.</p>
+  <p>Yes! A Rally Room is a smaller gathering held at the same time and on approximately the same schedule as the main Rally, for people who cannot travel as far. Write via the <a href="{{ '/contact/' | relative_url }}">contact page</a> with a city, local organizer, and the institution and room you have in mind. Organizers must be able to arrange a small meeting space and do some local advertising. The <a href="{{ '/handbook/' | relative_url }}">site handbook</a> covers rooms, Zoom, and how a local site stays in step with the others.</p>
 
 </article>
