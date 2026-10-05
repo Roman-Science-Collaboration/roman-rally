@@ -31,7 +31,7 @@ description: Hackathon focused on commissioning and first-look data from NASA's 
 
 <section class="prose" aria-labelledby="next-heading">
   <h2 id="next-heading">The first Roman Rally</h2>
-  <p>Would you like to host a rally room? Fill out this form by Nov 10.</p>
+  <p>Would you like to host a rally room? Fill out this form by Nov 10. Notes on rooms, Zoom, and keeping a local site in step with the others are in the <a href="{{ '/handbook/' | relative_url }}">site handbook</a>.</p>
 </section>
 
 <div class="card-list">

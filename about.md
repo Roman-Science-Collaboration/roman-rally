@@ -32,5 +32,5 @@ description: Why Roman Rally meetings are unconferences, how projects are organi
   <p>Organizers for the first Rally are <strong class="tbd">TBD</strong>. They will be listed on the <a href="{{ '/events/rally2026/' | relative_url }}">2026 Rally</a> page.</p>
 
   <h2>Satellites and hosts</h2>
-  <p>A physical Rally Room can be hosted by any institution. See the <a href="{{ '/contact/' | relative_url }}">contact page</a> for more details.</p>
+  <p>A physical Rally Room can be hosted by any institution. See the <a href="{{ '/contact/' | relative_url }}">contact page</a> for more details. Practical notes for people holding a room are on the <a href="{{ '/handbook/' | relative_url }}">site handbook</a>.</p>
 </article>
