@@ -52,7 +52,9 @@ description: Hackathon focused on commissioning and first-look data from NASA's 
   <p>Roman's data will flow fast starting in early December. We all have a lot to learn about the data (format, quality, handling the scale, calibrations). The Roman Rally will be a place to learn and experiment on the Roman data in real-time. We imagine many lessons learned will flow from the rally: a calibration that still looks strange, dealing with new image and catalog formats, dos and don'ts on the Roman Research Nexus. The Rally is a few days set aside for that work.</p>
   
   <p>Roman launched on 30 August 2026 and commissioning is underway. Commissioning and first public look data products will be released prior to Dec 11. </p>
-  <p><strong>We strongly encourage Roman Rally participants to join the Roman Science Collaboration (RSC). The RSC exists to help make the most of Roman data. Membership is voluntary, and you do not have to join the RSC to do science with Roman data. The collaboration's public home is on <a href="https://outerspace.stsci.edu/spaces/RSCPUB/pages/286851875/Roman+Science+Collaboration+RSC+Public+Page+Home">Outerspace at STScI</a>.</p>
+  <p><strong>We strongly encourage Roman Rally participants to join the <a href="https://outerspace.stsci.edu/spaces/RSCPUB/pages/286851875/Roman+Science+Collaboration+RSC+Public+Page+Home">Roman Science Collaboration</a> (RSC). </strong> 
+    The RSC exists to help make the most of Roman data. Membership is voluntary, and you do not have to join the RSC 
+    to do science with Roman data.</p>
 
   <h2 id="past">Past events</h2>
   <p>None yet.</p>
