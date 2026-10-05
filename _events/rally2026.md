@@ -4,16 +4,17 @@ summary: "The opening Rally: a week-long hackathon on commissioning and first-lo
 description: "Practical details for the first Roman Rally to be held Dec 14-18, 2026. Venues, hosts, and applications are still to be decided."
 status: upcoming
 sort_date: "2026-12-14"
-date_display: "**2026 Dec 14-18**"
-city: "**Berkeley, Honolulu, TBD**"
+date_display: "2026 Dec 14-18"
+city: "Berkeley, Honolulu, TBD"
 venue: "**TBD**"
-host_institution: "**UC Berkeley, U Hawaii, TBD**"
+host_institution: "UC Berkeley, U Hawaii, TBD"
 capacity: "**TBD**"
 application_deadline: "**TBD**"
 application_url: "**TBD**"
 funding: "**TBD**"
 logistics: "**TBD**"
 soc:
+  - "Jessica Lu"
   - "**TBD**"
 loc:
   - "**TBD**"
@@ -25,10 +26,10 @@ Applications are not yet open.
 
 ## Dates, place, and host
 
-- Dates: **2026 Dec 14-18**
-- City: **Berkeley, Honolulu, Virtual, TBD**
-- Venue: **TBD**
-- Host institution: **UC Berkeley, U Hawaii, TBD**
+- Dates: <strong>2026 Dec 14-18</strong>
+- City: <strong>Berkeley, Honolulu, Virtual, TBD</strong>
+- Venue: <strong>TBD</strong>
+- Host institution: <strong>UC Berkeley, U Hawaii, TBD</strong>
 
 ## Committees
 
