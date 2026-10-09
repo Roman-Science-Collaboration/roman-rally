@@ -13,6 +13,7 @@ application_deadline: "**TBD**"
 application_url: "**TBD**"
 funding: "**TBD**"
 logistics: "**TBD**"
+show_banner: true
 soc:
   - "Jessica Lu"
   - "**TBD**"
@@ -30,6 +31,8 @@ Applications are not yet open.
 - City: <strong>Berkeley, Honolulu, Virtual, TBD</strong>
 - Venue: <strong>TBD</strong>
 - Host institution: <strong>UC Berkeley, U Hawaii, TBD</strong>
+
+In-person Rally Rooms beyond the cities named above are still being gathered. Interested in hosting a Rally Room? See [what it means to host a Rally Room]({{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}).
 
 ## Committees
 

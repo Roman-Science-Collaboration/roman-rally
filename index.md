@@ -4,6 +4,14 @@ title: Roman Rally
 description: Hackathon focused on commissioning and first-look data from NASA's Nancy Grace Roman Space Telescope, organized by the Roman Science Collaboration.
 ---
 
+<figure class="hero-banner">
+  <picture>
+    <source srcset="{{ '/assets/images/roman-rally-banner.webp' | relative_url }}" type="image/webp">
+    <img src="{{ '/assets/images/roman-rally-banner.png' | relative_url }}" width="973" height="314" alt="Illustration of two rally cars: a purple Roman Space Telescope car labeled Wide Field Racing and a teal Euclid car, racing across a dusty lunar surface">
+  </picture>
+  <figcaption>Illustration by Robyn</figcaption>
+</figure>
+
 <header class="hero">
   <p class="kicker">Roman Science Collaboration</p>
   <h1>Roman Rally</h1>
@@ -31,14 +39,15 @@ description: Hackathon focused on commissioning and first-look data from NASA's 
 
 <section class="prose" aria-labelledby="next-heading">
   <h2 id="next-heading">The first Roman Rally</h2>
-  <p>Would you like to host a rally room? Fill out this form by Nov 10. Notes on rooms, Zoom, and keeping a local site in step with the others are in the <a href="{{ '/handbook/' | relative_url }}">site handbook</a>.</p>
+  <p>Would you like to host a rally room? Fill out this form by Nov 10. The form link is <strong class="tbd">TBD</strong>. <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">What it means to host a Rally Room</a> explains the commitment and a draft shape of the week. Notes on rooms, Zoom, and keeping a local site in step with the others are in the <a href="{{ '/handbook/' | relative_url }}">site handbook</a>.</p>
+  <p class="host-pointer">In-person Rally Rooms beyond the sites already named for 2026 are still <strong class="tbd">TBD</strong>. Interested in hosting a Rally Room? See <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">what it means to host</a>.</p>
 </section>
 
 <div class="card-list">
 {% assign upcoming = site.events | where: "status", "upcoming" | sort: "sort_date" %}
 {% if upcoming.size == 0 %}
   <div class="empty">
-    <p>The next Rally is <strong>Dec 14-18, 2026</strong> both online and at several physical locations. In-person Rally locations are still TBD.</p>
+    <p>The next Rally is <strong>Dec 14-18, 2026</strong>, online and at in-person Rally Rooms. Further locations are still <strong class="tbd">TBD</strong>. Interested in hosting a Rally Room? See <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">what it means to host</a>.</p>
   </div>
 {% else %}
   {% for event in upcoming %}
@@ -46,6 +55,23 @@ description: Hackathon focused on commissioning and first-look data from NASA's 
   {% endfor %}
 {% endif %}
 </div>
+
+<section class="invitation-share" aria-labelledby="share-the-invitation">
+  <h2 id="share-the-invitation">Share the invitation</h2>
+  <p>Download the invitation and forward it, or post it where your community will see it. It carries the dates, a short description of the week, and two QR codes.</p>
+  <ul class="invitation-links">
+    <li><strong>Scan to join the Rally</strong> opens <a href="https://roman-science-collaboration.github.io/roman-rally/">https://roman-science-collaboration.github.io/roman-rally/</a>.</li>
+    <li><a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">Seeking Rally Hosts</a> opens <a href="https://roman-science-collaboration.github.io/roman-rally/handbook/#what-it-means-to-host-a-rally-room">https://roman-science-collaboration.github.io/roman-rally/handbook/#what-it-means-to-host-a-rally-room</a>. Want to host a local Rally Room? That is the page the second code opens.</li>
+  </ul>
+  <figure class="invitation-figure">
+    <a href="{{ '/assets/images/roman-rally-invitation.jpg' | relative_url }}" download>
+      <img src="{{ '/assets/images/roman-rally-invitation.jpg' | relative_url }}" width="1200" height="1500" alt="Invitation to the Roman Rally, December 14-18, 2026, online and at in-person Rally Rooms at participating institutions. A few days of hands-on work on early Nancy Grace Roman Space Telescope commissioning and first-look data, organized by the Roman Science Collaboration. One QR code, Scan to join the Rally, links to https://roman-science-collaboration.github.io/roman-rally/ and a second, Seeking Rally Hosts, links to https://roman-science-collaboration.github.io/roman-rally/handbook/#what-it-means-to-host-a-rally-room.">
+    </a>
+    <figcaption>
+      <a class="button" href="{{ '/assets/images/roman-rally-invitation.jpg' | relative_url }}" download>Download the invitation (JPG)</a>
+    </figcaption>
+  </figure>
+</section>
 
 <section class="prose">
   <h2>Why these meetings, and why now</h2>

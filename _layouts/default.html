@@ -3,9 +3,24 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.url == "/" %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ page.description | default: site.description | strip }}">
+  {% capture page_title %}{% if page.url == "/" %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}{% endcapture %}
+  {% assign page_description = page.description | default: site.description | strip_newlines | strip %}
+  {% assign share_image = "/assets/images/roman-rally-banner.png" | absolute_url %}
+  {% assign share_alt = "Illustration of two rally cars: a purple Roman Space Telescope car labeled Wide Field Racing and a teal Euclid car, racing across a dusty lunar surface" %}
+  <title>{{ page_title }}</title>
+  <meta name="description" content="{{ page_description }}">
   <meta name="theme-color" content="#4f2774">
+  <meta property="og:title" content="{{ page_title }}">
+  <meta property="og:description" content="{{ page_description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ share_image }}">
+  <meta property="og:image:alt" content="{{ share_alt }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page_title }}">
+  <meta name="twitter:description" content="{{ page_description }}">
+  <meta name="twitter:image" content="{{ share_image }}">
+  <meta name="twitter:image:alt" content="{{ share_alt }}">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>

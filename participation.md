@@ -45,6 +45,9 @@ permalink: /participation/
   <p>Rules for commissioning and early products are set by the mission. All public data products are in bounds.</p>
 
   <h3>Can my institution host a Rally Room?</h3>
-  <p>Yes! A Rally Room is a smaller gathering held at the same time and on approximately the same schedule as the main Rally, for people who cannot travel as far. Write via the <a href="{{ '/contact/' | relative_url }}">contact page</a> with a city, local organizer, and the institution and room you have in mind. Organizers must be able to arrange a small meeting space and do some local advertising. The <a href="{{ '/handbook/' | relative_url }}">site handbook</a> covers rooms, Zoom, and how a local site stays in step with the others.</p>
+  <p>Yes! A Rally Room is a smaller gathering held at the same time and on approximately the same schedule as the main Rally, for people who cannot travel as far. Write via the <a href="{{ '/contact/' | relative_url }}">contact page</a> with a city, local organizer, and the institution and room you have in mind. Organizers must be able to arrange a small meeting space and do some local advertising. The <a href="{{ '/handbook/' | relative_url }}">site handbook</a> covers rooms, Zoom, and how a local site stays in step with the others. The commitment itself, and a draft shape of the week, is in <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">what it means to host a Rally Room</a>.</p>
+
+  <h2 id="share-the-invitation">Share the invitation</h2>
+  <p>A one-page invitation, with the Dec 14-18, 2026 dates and two QR codes, is on the <a href="{{ '/#share-the-invitation' | relative_url }}">home page</a>. One code joins the Rally. The other is labeled Seeking Rally Hosts and opens the handbook section on hosting. Download the JPG and forward it, or post it where your local community will see it.</p>
 
 </article>
