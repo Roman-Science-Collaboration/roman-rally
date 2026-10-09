@@ -533,6 +533,33 @@ code {
   font-size: 1.2rem;
 }
 
+.home-facts {
+  max-width: 44rem;
+  margin: 0 0 1.75rem;
+}
+
+.host-glance {
+  margin: 0.35rem 0 1.35rem;
+}
+
+.facts.host-glance h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1.05rem;
+}
+
+.host-glance p {
+  margin: 0.35rem 0 0.55rem;
+}
+
+.host-glance ul {
+  margin: 0.2rem 0 0.15rem;
+  padding-left: 1.15rem;
+}
+
+.host-glance li + li {
+  margin-top: 0.28rem;
+}
+
 .facts h3 {
   margin: 1.15rem 0 0.35rem;
   font-size: 1.02rem;

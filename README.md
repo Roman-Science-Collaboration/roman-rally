@@ -116,7 +116,7 @@ People without write access can still propose an edit. On the file, choose **Edi
 
 Search the repository for `**TBD**`. Those strings are the facts still missing: dates, venue, host, committees, application, funding, logistics, contact addresses, and a few policy links. The same marker is bold on the website.
 
-`_events/TEMPLATE.md` contains `**TBD**` on purpose. It is a blank form, not a list of missing facts for the first Rally. The first Rally's own file is `_events/first-rally.md`.
+`_events/TEMPLATE.md` contains `**TBD**` on purpose. It is a blank form, not a list of missing facts for the first Rally. The first Rally's own file is `_events/rally2026.md`.
 
 ## Regenerate the invitation
 
