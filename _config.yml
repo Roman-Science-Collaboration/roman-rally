@@ -51,5 +51,6 @@ exclude:
   - vendor
   - .bundle
   - node_modules
+  - tools
   - assets/fonts/OFL-source-serif.txt
   - assets/fonts/OFL-source-sans.txt

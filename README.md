@@ -118,6 +118,19 @@ Search the repository for `**TBD**`. Those strings are the facts still missing: 
 
 `_events/TEMPLATE.md` contains `**TBD**` on purpose. It is a blank form, not a list of missing facts for the first Rally. The first Rally's own file is `_events/first-rally.md`.
 
+## Regenerate the invitation
+
+The shareable invitation is `assets/images/roman-rally-invitation.jpg`. A PNG preview sits beside it. The illustration is `assets/images/roman-rally-banner.png` (the original). The home page loads `assets/images/roman-rally-banner.webp`, which the same script refreshes from that PNG.
+
+To change the date, the sentences, or either URL, edit the constants at the top of `tools/make_invitation.py` and run:
+
+```bash
+python3 -m pip install pillow segno opencv-python-headless fonttools brotli pyzbar
+python3 tools/make_invitation.py
+```
+
+pyzbar also needs the zbar library (`libzbar0` on Debian or Ubuntu). The script typesets the flyer with the Source Serif 4 and Source Sans 3 files in `assets/fonts/`, draws two QR codes at high error correction, and checks that the JPG decodes to both addresses: the Rally site, and the handbook section "What it means to host a Rally Room" (`#what-it-means-to-host-a-rally-room`). Keep that heading id in step with `HOST_URL` in the script.
+
 ## Repository map
 
 ```
@@ -131,6 +144,8 @@ assets/css/style.css        layout and color
 assets/favicon.svg          icon
 assets/wordmark.svg         standalone wordmark
 assets/fonts/               Source Serif 4 and Source Sans 3 (SIL Open Font License)
+assets/images/              banner, web-optimized banner, and the invitation
+tools/make_invitation.py    regenerates the invitation (not published)
 .github/workflows/pages.yml build and deploy
 ```
 

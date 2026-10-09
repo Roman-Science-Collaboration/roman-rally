@@ -212,6 +212,80 @@ main {
   margin-bottom: 2.25rem;
 }
 
+.hero-banner,
+.event-banner {
+  margin: 0 0 1.5rem;
+}
+
+.hero-banner img,
+.event-banner img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 0.5rem;
+  background: #1f2a4a;
+}
+
+.event-banner {
+  max-width: 36rem;
+}
+
+.hero-banner figcaption,
+.event-banner figcaption {
+  margin: 0.45rem 0 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.invitation-share {
+  max-width: var(--measure);
+  margin: 0.5rem 0 2.25rem;
+}
+
+.invitation-share h2 {
+  margin-top: 0.2rem;
+}
+
+.invitation-figure {
+  margin: 1rem 0 0;
+}
+
+.invitation-figure img {
+  display: block;
+  width: min(100%, 22rem);
+  height: auto;
+  object-fit: contain;
+  border-radius: 0.5rem;
+  border: 1px solid var(--line);
+  background: #fff;
+}
+
+.invitation-figure figcaption {
+  margin-top: 0.85rem;
+}
+
+.invitation-links {
+  margin: 0.9rem 0 0;
+  padding-left: 1.15rem;
+}
+
+.invitation-links li + li {
+  margin-top: 0.45rem;
+}
+
+.host-pointer {
+  max-width: var(--measure);
+  margin: 0.35rem 0 1.5rem;
+}
+
+.draft-note {
+  margin: 1rem 0 1.15rem;
+  padding: 0.9rem 1rem;
+  background: #f7f2fc;
+  border-left: 4px solid var(--accent-deep);
+}
+
 .kicker,
 .card-status {
   margin: 0 0 0.45rem;
