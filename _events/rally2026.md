@@ -21,9 +21,7 @@ loc:
   - "**TBD**"
 ---
 
-The first Roman Rally (2026 Dec 14-18) is will be focused on data from commissioning and the mission's first look at the sky. People will propose projects on the first morning, sort into groups, and spend the rest of the meeting writing code, making plots, and comparing notes.
-
-Applications are not yet open. 
+The first Roman Rally focuses on commissioning data and the mission's first look at the sky. On the first morning people propose projects, form groups, and spend the rest of the week writing code, making plots, and comparing notes. Applications are not yet open.
 
 ## Dates, place, and host
 
@@ -32,15 +30,15 @@ Applications are not yet open.
 - Venue: <strong>TBD</strong>
 - Host institution: <strong>UC Berkeley, U Hawaii, TBD</strong>
 
-In-person Rally Rooms beyond the cities named above are still being gathered. Interested in hosting a Rally Room? See [what it means to host a Rally Room]({{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}).
+Further in-person Rally Rooms are still being gathered. Host signup (form by Nov 10, link <strong class="tbd">TBD</strong>) is summarized on the [home page]({{ '/' | relative_url }}). The commitment is in [what it means to host a Rally Room]({{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}).
 
 ## Committees
 
-The Rally Organizing Committee looks after the purpose of the meeting, the application, and the balance of who is in the room. For this Rally, that committee is **TBD**.
+The Organizing Committee for this Rally is **TBD**. It looks after the purpose of the meeting, the application, and the balance of who is in the room.
 
 ## How to apply
 
-The application form is **TBD**. The deadline is **TBD**. A decision date, once the organizers can promise one, is **TBD**.
+The application form, the deadline, and the decision date are **TBD**.
 
 Which data products are in bounds, and under what rules, is **TBD**. The mission sets those rules. A Rally does not grant data rights.
 
@@ -48,4 +46,4 @@ Everyone at the meeting, including organizers, follows the [code of conduct]({{ 
 
 ## What the days are for
 
-Bring a question, a plot you want to try, or a skill you are willing to lend. You do not need a finished project, and you do not need to be the Roman expert in your department. The fuller account of how a Rally runs is on the [about page]({{ '/about/' | relative_url }}).
+Bring a question, a plot you want to try, or a skill you are willing to lend. You do not need a finished project, or to be the Roman expert in your department. How a Rally runs is on the [about page]({{ '/about/' | relative_url }}).

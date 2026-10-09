@@ -8,14 +8,14 @@ permalink: /code-of-conduct/
 <header class="page-header">
   <p class="kicker">Conduct</p>
   <h1>Code of conduct</h1>
-  <p class="lede">Roman Rally meetings are for scientific work. That work depends on people being able to ask questions, share unfinished ideas, and stay in the room. This code is the standard for every Rally.</p>
+  <p class="lede">Roman Rally meetings are for scientific work. People need to be able to ask questions, share unfinished ideas, and stay in the room. This code is the standard for every Rally.</p>
 </header>
 
 <article class="prose">
   <p>Participants in the Roman Rally must adhere to the <a href="https://aas.org/policies/ethics">American Astronomical Society Code of Ethics</a>. MORE?</p>
 
   <h2>Where this applies</h2>
-  <p>This code covers the meeting days, meals and social gatherings organized around a Rally, satellite events and online spaces that use the Roman Rally name, and the chats, repositories, and shared documents created for a Rally. It applies to every participant, including organizers, volunteers, and guests. It applies whether the conversation is in the room or online.</p>
+  <p>This code covers the meeting days, meals and social gatherings organized around a Rally, satellite events and online spaces that use the Roman Rally name, and the chats, repositories, and shared documents created for a Rally. It applies to every participant, including organizers, volunteers, and guests, in the room and online.</p>
 
   <h2>What we expect</h2>
   <ul>
@@ -39,13 +39,12 @@ permalink: /code-of-conduct/
   <p>Scientific disagreement is part of the meeting. Humiliating a person is not a form of scientific disagreement.</p>
 
   <h2>Open work</h2>
-  <p>Projects at a Rally are developed in the open among the people there. Bring ideas, code, and data you are allowed to share with the room. The fuller account of credit and co-authorship is on the <a href="{{ '/about/' | relative_url }}">about page</a>. When a project is carried forward as Roman Science Collaboration work, RSC publication policy applies.</p>
+  <p>Bring ideas, code, and data you are allowed to share with the room. Credit and co-authorship are on the <a href="{{ '/about/' | relative_url }}">about page</a>. When a project continues as Roman Science Collaboration work, RSC publication policy applies.</p>
 
   <h2>How to report</h2>
-  <p>If you can, tell a member of the Organizing Committee or the Roman Science Collaboration Board. </p>
+  <p>If you can, tell a member of the Organizing Committee or the Roman Science Collaboration Board. The confidential address is <strong class="tbd">TBD</strong> on the <a href="{{ '/contact/' | relative_url }}">contact page</a>.</p>
   <p>You can also report conduct that violates the AAS Code of Ethics through the Society's own process.</p>
 
   <h2>What organizers may do</h2>
   <p>Organizers will take reports seriously. They may warn someone, ask them to leave a session, end their participation in the meeting and its channels, or refuse a future application. They may involve the host institution or a relevant professional body when the situation calls for it.</p>
-
 </article>

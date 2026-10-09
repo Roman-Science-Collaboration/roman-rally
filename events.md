@@ -8,7 +8,7 @@ permalink: /events/
 <header class="page-header">
   <p class="kicker">Calendar</p>
   <h1>Events</h1>
-  <p class="lede">One page per meeting. Upcoming Rallies are announced here when a host and a date become real. Past Rallies stay here afterward, with a short note on the work.</p>
+  <p class="lede">One page per meeting, upcoming and past.</p>
 </header>
 
 <section aria-labelledby="upcoming-heading">
@@ -32,7 +32,7 @@ permalink: /events/
   {% assign past = site.events | where: "status", "past" | sort: "sort_date" | reverse %}
   {% if past.size == 0 %}
   <div class="empty">
-    <p>No Roman Rally has been held yet. This block is the placeholder for meetings that have already happened. Dates, hosts, and notes will collect here after the first gathering. To file one, set <code>status: past</code> on its file in <code>_events/</code> and add a few sentences about the projects people actually did.</p>
+    <p>None yet. After a Rally, set <code>status: past</code> on its file in <code>_events/</code> and add a few sentences on the projects people did.</p>
   </div>
   {% else %}
   <div class="card-list">
@@ -45,5 +45,5 @@ permalink: /events/
 
 <section class="prose">
   <h2>Adding a meeting</h2>
-  <p>Copy <code>_events/TEMPLATE.md</code> to a new file in <code>_events/</code>, remove the line <code>published: false</code>, and replace each <strong class="tbd">TBD</strong>. Set <code>status</code> to <code>upcoming</code> or <code>past</code>. The lists on this page, and the card on the home page, update when the site is rebuilt. The <a href="https://github.com/Roman-Science-Collaboration/roman-rally/blob/main/README.md">README</a> has the click-by-click version for the GitHub website.</p>
+  <p>Copy <code>_events/TEMPLATE.md</code> to a new file in <code>_events/</code>, remove <code>published: false</code>, replace each <strong class="tbd">TBD</strong>, and set <code>status</code> to <code>upcoming</code> or <code>past</code>. This list and the home page update when the site is rebuilt. The <a href="https://github.com/Roman-Science-Collaboration/roman-rally/blob/main/README.md">README</a> has the click-by-click version for the GitHub website.</p>
 </section>
