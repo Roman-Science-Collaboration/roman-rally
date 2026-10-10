@@ -13,7 +13,7 @@ permalink: /contact/
 <article class="prose">
   <h2>Questions about a Rally</h2>
   <p>Roman Science Collaboration co-Spokespersons: Jessica Lu (<a href="mailto:jlu.astro@berkeley.edu">jlu.astro@berkeley.edu</a>) and David Weinberg (<a href="mailto:weinberg.21@osu.edu">weinberg.21@osu.edu</a>).</p>
-  <p>To host a Rally Room, read <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">what it means to host</a>, then write to those addresses.</p>
+  <p>To host a Rally Room, read <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">what it means to host</a>, and fill out this <a href="https://forms.gle/6ezG7RphEr4BREXL8">form</a>.</p>
 
   <h2>Code of conduct</h2>
   <p>The confidential address for conduct reports is <strong class="tbd">TBD</strong>. Do not send a report by public issue, public pull request, or any other public channel on this repository. Other ways to reach someone, including in person once the local committee has names, are in the <a href="{{ '/code-of-conduct/' | relative_url }}">code of conduct</a>.</p>
