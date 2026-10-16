@@ -8,7 +8,7 @@ The published site, once Pages is turned on, will be:
 
 **https://roman-science-collaboration.github.io/roman-rally/**
 
-Unset facts are written as `**TBD**` (bold TBD on the site). Search the repository for `**TBD**` before announcing a meeting.
+Do not put the word TBD on a published page. In an event file's header, an unset field can stay `"**TBD**"` until you know the fact. The site renders that header marker as "To be announced". Say what is known in the page itself, and when the rest will be posted.
 
 ## Edit a page in the browser
 
@@ -31,7 +31,7 @@ Unset facts are written as `**TBD**` (bold TBD on the site). Search the reposito
 5. Click **Commit changes**. People with write access may commit straight to `main`. Prefer **Create a new branch** and a pull request so someone else can read the edit before it goes live.
 6. After the pull request is merged, GitHub Actions rebuilds the site. Give it a minute, then reload the page.
 
-A pull request is the right place for wording. It is the wrong place for a complaint about a person. Conduct reports go to the address on the contact page (still **TBD**), not to a public issue.
+A pull request is the right place for wording. It is the wrong place for a complaint about a person. Conduct reports go to the co-Spokespersons on the contact page until a separate confidential address is posted, not to a public issue.
 
 ## Add an event
 
@@ -42,12 +42,12 @@ Each meeting is one Markdown file in `_events/`. The home page and the events li
 3. Name the file `_events/short-name.md`. Use lowercase letters, numbers, and hyphens, for example `_events/2027-baltimore.md`.
 4. Paste the template into the editor.
 5. Delete the line `published: false`. While that line is present, Jekyll hides the page.
-6. Fill in the header. Quoted `"**TBD**"` values are what the sidebar and the event cards display. Replace each one, and keep the quotes.
+6. Fill in the header. A quoted `"**TBD**"` is a stand-in for a missing fact. The sidebar and the event cards show it as "To be announced". Replace each one, and keep the quotes.
 7. Set `status` to `upcoming` or `past`.
 8. Set `sort_date` to the first day, written `YYYY-MM-DD`, so the list sorts in time. Undated drafts can keep `9999-12-31`, which sorts last.
 9. Write the page under the second `---` line. Keep the practical list in the body in step with the header. Both are shown: the header feeds the sidebar and the cards, and the body is the prose.
 10. Committee entries are one person per line: `"Name, Institution"`. Replace the `"**TBD**"` line rather than adding names under it.
-11. Leave `application_url` as `"**TBD**"` until you have a real `https://` link. A link is rendered as "Application form".
+11. Leave `application_url` as `"**TBD**"` until you have a real `https://` link. A link is rendered as "Application form". If the form exists but is not open yet, set `application_open: false`. The sidebar then labels the link "Participant sign-up form" and shows "NOT YET OPEN".
 12. Choose **Commit changes → Create a new branch**, then open a pull request.
 
 `_events/TEMPLATE.md` itself stays unpublished. Do not turn it into a real event. Copy it.
@@ -114,9 +114,9 @@ People without write access can still propose an edit. On the file, choose **Edi
 
 ## Placeholders
 
-Search the repository for `**TBD**`. Those strings are the facts still missing: dates, venue, host, committees, application, funding, logistics, contact addresses, and a few policy links. The same marker is bold on the website.
+Search the repository for `**TBD**` before you announce a meeting. In an event header, that marker means the fact is still open, and the website shows "To be announced" instead of the marker. Do not leave the word TBD in the prose of a published page.
 
-`_events/TEMPLATE.md` contains `**TBD**` on purpose. It is a blank form, not a list of missing facts for the first Rally. The first Rally's own file is `_events/rally2026.md`.
+`_events/TEMPLATE.md` contains `**TBD**` on purpose. It is a blank form, not a list of missing facts for the first Rally. The first Rally's own file is `_events/rally2026.md`. The template stays unpublished.
 
 ## Regenerate the invitation
 

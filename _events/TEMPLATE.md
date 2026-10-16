@@ -37,22 +37,22 @@ Delete this paragraph and describe the meeting: why it is happening, who it is f
 
 ## Dates, place, and host
 
-Dates: **TBD**. City: **TBD**. Venue: **TBD**. Host institution: **TBD**.
+Dates: To be announced. City: To be announced. Venue: To be announced. Host institution: To be announced.
 
 ## Committees
 
-Scientific Organizing Committee: **TBD**.
+Scientific Organizing Committee: To be announced.
 
-Local Organizing Committee: **TBD**.
+Local Organizing Committee: To be announced.
 
 The sidebar reads the lists in the header of this file. Keep those lists and this section in step.
 
 ## How to apply
 
-Applications are not open. The deadline is **TBD**. The form is **TBD**.
+Applications are not open. The deadline is to be announced. The form is to be announced.
 
 ## Funding and logistics
 
-Travel support, lodging, fees, and dependent care: **TBD**.
+Travel support, lodging, fees, and dependent care: To be announced.
 
-Building access, meals, accessibility, and visa letters: **TBD**.
+Building access, meals, accessibility, and visa letters: To be announced.

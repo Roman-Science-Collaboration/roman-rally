@@ -31,7 +31,7 @@ description: Hackathon focused on commissioning and first-look data from NASA's 
     </div>
     <div>
       <dt>Where</dt>
-      <dd>Online, and in-person Rally Rooms. Further sites are <strong class="tbd">TBD</strong>.</dd>
+      <dd>Online, and in-person Rally Rooms. More locations to be announced once host sites are finalized.</dd>
     </div>
     <div>
       <dt>Who</dt>
@@ -39,11 +39,11 @@ description: Hackathon focused on commissioning and first-look data from NASA's 
     </div>
     <div>
       <dt>Join</dt>
-      <dd>Applications are not open. The form is <strong class="tbd">TBD</strong> on the <a href="{{ '/events/rally2026/' | relative_url }}">2026 Rally</a> page.</dd>
+      <dd><a href="https://docs.google.com/forms/d/1KZgV9BmCQiFieGkorWnvCNWMoyuz-FSELj9YmTKGAtw/viewform">Participant sign-up form</a> <span class="not-yet-open">NOT YET OPEN</span>. It opens once host sites are finalized. Details are on the <a href="{{ '/events/rally2026/' | relative_url }}">2026 Rally</a> page.</dd>
     </div>
     <div>
       <dt>Host</dt>
-      <dd>Form by Nov 10. The link is <strong class="tbd">TBD</strong>. <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">What it means to host a Rally Room</a>.</dd>
+      <dd><a href="https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform">Host form</a>, responses due Nov 10. <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">What it means to host a Rally Room</a>.</dd>
     </div>
   </dl>
 </section>
@@ -52,7 +52,7 @@ description: Hackathon focused on commissioning and first-look data from NASA's 
 {% assign upcoming = site.events | where: "status", "upcoming" | sort: "sort_date" %}
 {% if upcoming.size == 0 %}
   <div class="empty">
-    <p>The next Rally is <strong>Dec 14-18, 2026</strong>, online and at in-person Rally Rooms. Further locations are <strong class="tbd">TBD</strong>.</p>
+    <p>The next Rally is <strong>Dec 14-18, 2026</strong>, online and at in-person Rally Rooms. More locations to be announced once host sites are finalized. <a href="https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform">Host your own</a>.</p>
   </div>
 {% else %}
   {% for event in upcoming %}

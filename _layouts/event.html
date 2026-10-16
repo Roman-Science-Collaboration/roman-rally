@@ -50,7 +50,8 @@ layout: default
         <dt>How to apply</dt>
         <dd>
           {%- if page.application_url contains "http" -%}
-          <a href="{{ page.application_url }}">Application form</a>
+          <a href="{{ page.application_url }}">{% if page.application_open == false %}Participant sign-up form{% else %}Application form{% endif %}</a>
+          {%- if page.application_open == false %} <span class="not-yet-open">NOT YET OPEN</span>{% endif %}
           {%- else -%}
           {% include placeholder.html value=page.application_url %}
           {%- endif -%}
