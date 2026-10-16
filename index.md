@@ -43,7 +43,7 @@ description: Hackathon focused on commissioning and first-look data from NASA's 
     </div>
     <div>
       <dt>Host</dt>
-      <dd><a href="https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform">Host form</a>, responses due Nov 10. <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">What it means to host a Rally Room</a>.</dd>
+      <dd><a href="https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform">Host form</a>, responses due Oct 30. <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">What it means to host a Rally Room</a>.</dd>
     </div>
   </dl>
 </section>
