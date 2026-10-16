@@ -27,10 +27,10 @@ permalink: /participation/
   <p>A short orientation, brief check-ins, and maybe a few expert tutorials. The rest of the time is for working.</p>
 
   <h3>How do I apply?</h3>
-  <p>The form, the deadline, and the decision date are <strong class="tbd">TBD</strong> on the <a href="{{ '/events/rally2026/' | relative_url }}">2026 Rally</a> page. There is no way to apply ahead of that form.</p>
+  <p>The <a href="https://docs.google.com/forms/d/1KZgV9BmCQiFieGkorWnvCNWMoyuz-FSELj9YmTKGAtw/viewform">participant sign-up form</a> <span class="not-yet-open">NOT YET OPEN</span> opens once host sites are finalized. The deadline and the decision date will be posted on the <a href="{{ '/events/rally2026/' | relative_url }}">2026 Rally</a> page when the form opens.</p>
 
   <h3>How are people chosen?</h3>
-  <p>If there are more applicants than seats, organizers mix skills, interests, and career stages, with attention to early-career astronomers. Written criteria are <strong class="tbd">TBD</strong>, posted on the event page before the form opens.</p>
+  <p>If there are more applicants than seats, organizers mix skills, interests, and career stages, with attention to early-career astronomers. Written criteria will be posted on the event page before the form opens.</p>
 
   <h3>Can I attend remotely?</h3>
   <p>Yes, on Zoom and Slack. In person is valuable, not required. More than three people at one institution should host a Rally Room.</p>
@@ -42,10 +42,10 @@ permalink: /participation/
   <p>A laptop, notes you are willing to share, and code you are free to show. Data and software you cannot share should stay at home.</p>
 
   <h3>What data will we be allowed to use?</h3>
-  <p>All public data products are in bounds. The mission sets the rules. The exact list is <strong class="tbd">TBD</strong> on the <a href="{{ '/events/rally2026/' | relative_url }}">2026 Rally</a> page.</p>
+  <p>All public data products are in bounds. The mission sets the rules. The exact list will be posted on the <a href="{{ '/events/rally2026/' | relative_url }}">2026 Rally</a> page once those products are set.</p>
 
   <h3>Can my institution host a Rally Room?</h3>
-  <p>Yes. Same time, approximately the same schedule, for people who cannot travel as far. You need a small meeting space and some local advertising. See <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">what it means to host a Rally Room</a>. Until the form is posted, write through the <a href="{{ '/contact/' | relative_url }}">contact page</a>.</p>
+  <p>Yes. Same time, approximately the same schedule, for people who cannot travel as far. You need a small meeting space and some local advertising. See <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">what it means to host a Rally Room</a>. Responses are due Nov 10 on the <a href="https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform">host form</a>.</p>
 
   <h2 id="share-the-invitation">Share the invitation</h2>
   <p>The Dec 14-18, 2026 invitation, with two QR codes, is on the <a href="{{ '/#share-the-invitation' | relative_url }}">home page</a>. One joins the Rally. Seeking Rally Hosts opens the section on hosting.</p>

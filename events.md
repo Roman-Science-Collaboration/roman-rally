@@ -17,7 +17,7 @@ permalink: /events/
   {% assign upcoming = site.events | where: "status", "upcoming" | sort: "sort_date" %}
   {% if upcoming.size == 0 %}
     <div class="empty">
-      <p>The next Rally is <strong class="tbd">Dec 14-18, 2026</strong>.</p>
+      <p>The next Rally is <strong>Dec 14-18, 2026</strong>.</p>
     </div>
   {% else %}
     {% for event in upcoming %}
@@ -45,5 +45,5 @@ permalink: /events/
 
 <section class="prose">
   <h2>Adding a meeting</h2>
-  <p>Copy <code>_events/TEMPLATE.md</code> to a new file in <code>_events/</code>, remove <code>published: false</code>, replace each <strong class="tbd">TBD</strong>, and set <code>status</code> to <code>upcoming</code> or <code>past</code>. This list and the home page update when the site is rebuilt. The <a href="https://github.com/Roman-Science-Collaboration/roman-rally/blob/main/README.md">README</a> has the click-by-click version for the GitHub website.</p>
+  <p>Copy <code>_events/TEMPLATE.md</code> to a new file in <code>_events/</code>, remove <code>published: false</code>, fill in the header and the page, and set <code>status</code> to <code>upcoming</code> or <code>past</code>. This list and the home page update when the site is rebuilt. The <a href="https://github.com/Roman-Science-Collaboration/roman-rally/blob/main/README.md">README</a> has the click-by-click version for the GitHub website.</p>
 </section>

@@ -42,7 +42,7 @@ permalink: /code-of-conduct/
   <p>Bring ideas, code, and data you are allowed to share with the room. Credit and co-authorship are on the <a href="{{ '/about/' | relative_url }}">about page</a>. When a project continues as Roman Science Collaboration work, RSC publication policy applies.</p>
 
   <h2>How to report</h2>
-  <p>If you can, tell a member of the Organizing Committee or the Roman Science Collaboration Board. The confidential address is <strong class="tbd">TBD</strong> on the <a href="{{ '/contact/' | relative_url }}">contact page</a>.</p>
+  <p>If you can, tell a member of the Organizing Committee or the Roman Science Collaboration Board. Until a separate confidential address is posted, write to the co-Spokespersons on the <a href="{{ '/contact/' | relative_url }}">contact page</a>.</p>
   <p>You can also report conduct that violates the AAS Code of Ethics through the Society's own process.</p>
 
   <h2>What organizers may do</h2>
