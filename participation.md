@@ -27,7 +27,7 @@ permalink: /participation/
   <p>A short orientation, brief check-ins, and maybe a few expert tutorials. The rest of the time is for working.</p>
 
   <h3>How do I apply?</h3>
-  <p>The <a href="https://docs.google.com/forms/d/1KZgV9BmCQiFieGkorWnvCNWMoyuz-FSELj9YmTKGAtw/viewform">participant sign-up form</a> <span class="not-yet-open">NOT YET OPEN</span> opens once host sites are finalized. The deadline and the decision date will be posted on the <a href="{{ '/events/rally2026/' | relative_url }}">2026 Rally</a> page when the form opens.</p>
+  <p>The <a href="https://docs.google.com/forms/d/1KZgV9BmCQiFieGkorWnvCNWMoyuz-FSELj9YmTKGAtw/viewform">participant sign-up form</a> opens Monday Nov 2, 2026. The deadline and the decision date will be posted on the <a href="{{ '/events/rally2026/' | relative_url }}">2026 Rally</a> page when the form opens.</p>
 
   <h3>How are people chosen?</h3>
   <p>If there are more applicants than seats, organizers mix skills, interests, and career stages, with attention to early-career astronomers. Written criteria will be posted on the event page before the form opens.</p>
