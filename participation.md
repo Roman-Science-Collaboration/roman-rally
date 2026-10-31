@@ -45,7 +45,7 @@ permalink: /participation/
   <p>All public data products are in bounds. The mission sets the rules. The exact list will be posted on the <a href="{{ '/events/rally2026/' | relative_url }}">2026 Rally</a> page once those products are set.</p>
 
   <h3>Can my institution host a Rally Room?</h3>
-  <p>Yes. Same time, approximately the same schedule, for people who cannot travel as far. You need a small meeting space and some local advertising. See <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">what it means to host a Rally Room</a>. Responses are due Nov 10 on the <a href="https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform">host form</a>.</p>
+  <p>Yes. Same time, approximately the same schedule, for people who cannot travel as far. You need a small meeting space and some local advertising. See <a href="{{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}">what it means to host a Rally Room</a>. Responses are ideally due Oct 30 on the <a href="https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform">host form</a>.</p>
 
   <h2 id="share-the-invitation">Share the invitation</h2>
   <p>The Dec 14-18, 2026 invitation, with two QR codes, is on the <a href="{{ '/#share-the-invitation' | relative_url }}">home page</a>. One joins the Rally. Seeking Rally Hosts opens the section on hosting.</p>

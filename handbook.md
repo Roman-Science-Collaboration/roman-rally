@@ -11,7 +11,7 @@ permalink: /handbook/
 </header>
 
 <article class="prose">
-  <p>How the work is organized is on the <a href="{{ '/about/' | relative_url }}">about page</a>. Who a Rally is for is on the <a href="{{ '/participation/' | relative_url }}">participation page</a>. To host, read this page, then apply to host through this <a href="https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform">form</a> (responses due Nov 10).</p>
+  <p>How the work is organized is on the <a href="{{ '/about/' | relative_url }}">about page</a>. Who a Rally is for is on the <a href="{{ '/participation/' | relative_url }}">participation page</a>. To host, read this page, then apply to host through this <a href="https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform">form</a> (responses ideally due Oct 30).</p>
 
   <h2 id="what-it-means-to-host-a-rally-room">What it means to host a Rally Room</h2>
   <p>A Rally Room is a smaller gathering at the same time, on approximately the same schedule, for people who cannot travel as far. If your Roman group includes someone with commissioning experience, consider hosting for Dec 14-18, 2026. You do not need a local group of Roman experts. Fully online participation is available, and it counts as joining, not as hosting. If someone can reach a room by car or train, encourage them to go.</p>
@@ -54,7 +54,7 @@ permalink: /handbook/
     A handful of people is a real Rally Room. Read the setup sections below, and <a href="#before-the-week">before the week</a>, once the room is real.</p>
 
   <h3>How to sign up to host</h3>
-  <p>Fill out the <a href="https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform">host signup form</a> by Nov 10.
+  <p>Fill out the <a href="https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform">host signup form</a>, ideally by Oct 30.
     Include the city, the institution, the local contact, the room you have in mind,
     and how many visitors you can accommodate. Use that page. </p>
     
