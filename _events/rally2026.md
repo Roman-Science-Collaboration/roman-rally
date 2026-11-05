@@ -1,13 +1,13 @@
 ---
 title: "2026-12 Roman Rally"
 summary: "The opening Rally: a week-long hackathon on commissioning and first-look data from the Nancy Grace Roman Space Telescope."
-description: "Practical details for the first Roman Rally, Dec 14-18, 2026, online and at Rally Rooms at 17 institutions. Participant sign-up opens Monday, Nov 2, 2026."
+description: "Practical details for the first Roman Rally, Dec 14-18, 2026, online and at Rally Rooms at 19 institutions. Participant sign-up opens Monday, Nov 2, 2026."
 status: upcoming
 sort_date: "2026-12-14"
 date_display: "2026 Dec 14-18"
-city: "Berkeley, Honolulu, and 15 other sites"
-venue: "Rally Rooms at 17 institutions across the US"
-host_institution: "UC Berkeley, U Hawaii, and 15 further host sites"
+city: "Berkeley, Honolulu, Heidelberg, and 16 other sites"
+venue: "Rally Rooms at 19 institutions in the US and Germany"
+host_institution: "UC Berkeley, U Hawaii, and 17 further host sites"
 capacity: "Set with each host site"
 application_deadline: "Opens Monday Nov 2, 2026"
 application_url: "https://docs.google.com/forms/d/1KZgV9BmCQiFieGkorWnvCNWMoyuz-FSELj9YmTKGAtw/viewform"
@@ -57,6 +57,8 @@ The following sites have signed up to host a Rally Room. Details for each room (
     <tr><td>Mingyang Zhuang</td><td>University of Illinois Urbana-Champaign</td><td>Urbana, IL</td><td>Astro Atlas room</td><td>15</td></tr>
     <tr><td>Jaclyn Jensen</td><td>Dartmouth College</td><td>Hanover, NH</td><td>Wilder Hall, Rm 111</td><td>10</td></tr>
     <tr><td>Tim Eifler</td><td>University of Arizona</td><td>Tucson, AZ</td><td>Steward Observatory, Arizona Cosmology Lab</td><td>40</td></tr>
+    <tr><td>Jennifer Sobeck</td><td>Caltech / IPAC</td><td>Pasadena, CA</td><td>Keith Spalding Building (TBD)</td><td>30</td></tr>
+    <tr><td>Ivelina Momcheva</td><td>Max Planck Institute for Astronomy (MPIA)</td><td>Heidelberg, Germany</td><td>MPIA Seminar Room (visitors must register with the hosts in advance)</td><td>20</td></tr>
   </tbody>
 </table>
 </div>
