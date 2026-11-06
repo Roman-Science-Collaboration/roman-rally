@@ -35,8 +35,8 @@ Responses to the [host form](https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PX
 The following sites have signed up to host a Rally Room. Details for each room (venue, capacity, and local contact) will be finalized and posted here.
 
 <figure class="sites-map">
-  <a href="{{ '/assets/images/roman-rally-locations.png' | relative_url }}">
-    <img src="{{ '/assets/images/roman-rally-locations.png' | relative_url }}" width="1024" height="646" alt="Map of Roman Rally locations across the United States: UC Berkeley, Stanford, Caltech / IPAC, Arizona State University, University of Arizona Steward Observatory, University of Hawaii, Baylor University, University of Minnesota, University of Illinois, WashU, University of Florida, Carnegie Mellon, OSU, University of Maryland, Space Telescope Science Institute, UPenn, Center for Astrophysics, and Dartmouth. An inset marks the Max Planck Institute for Astronomy in Heidelberg, Germany.">
+  <a href="{{ '/assets/images/roman-rally-locations.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/roman-rally-locations.jpg' | relative_url }}" width="1024" height="646" alt="Map of Roman Rally locations across the United States: UC Berkeley, Stanford, Caltech / IPAC, Arizona State University, University of Arizona Steward Observatory, University of Hawaii, Baylor University, University of Minnesota, University of Illinois, WashU, University of Florida, Carnegie Mellon, OSU, University of Maryland, Space Telescope Science Institute, UPenn, Center for Astrophysics, and Dartmouth. An inset marks the Max Planck Institute for Astronomy in Heidelberg, Germany.">
   </a>
 </figure>
 
