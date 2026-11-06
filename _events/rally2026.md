@@ -55,7 +55,7 @@ The following sites have signed up to host a Rally Room. Details for each room (
     <tr><td>Aimee Schechter</td><td>University of Minnesota</td><td>Minneapolis, MN</td><td>Tate Hall, Rm 201/301</td><td>45</td></tr>
     <tr><td>Tathagata Pal</td><td>University of Maryland</td><td>College Park, MD</td><td>University of Maryland (TBD)</td><td>20</td></tr>
     <tr><td>Edward Schlafly</td><td>Space Telescope Science Institute</td><td>Baltimore, MD</td><td>STScI (TBD)</td><td>10</td></tr>
-    <tr><td>Ben Rose</td><td>Baylor University</td><td>Waco, TX</td><td>Hurd Welcome Center</td><td>25</td></tr>
+    <tr><td>Ben Rose</td><td>Baylor University</td><td>Waco, TX</td><td>BRIC Center</td><td>40</td></tr>
     <tr><td>Tansu Daylan</td><td>Washington University</td><td>St. Louis, MO</td><td>WashU Danforth campus (TBD)</td><td>150</td></tr>
     <tr><td>Dan Huber</td><td>University of Hawaii</td><td>Honolulu, HI</td><td>IfA Manoa Library (C-108)</td><td>30</td></tr>
     <tr><td>Robyn Sanderson</td><td>University of Pennsylvania</td><td>Philadelphia, PA</td><td>David Rittenhouse Labs, 4N9/4N11</td><td>20</td></tr>
