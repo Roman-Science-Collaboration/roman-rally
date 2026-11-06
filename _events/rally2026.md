@@ -1,7 +1,7 @@
 ---
 title: "2026-12 Roman Rally"
 summary: "The opening Rally: a week-long hackathon on commissioning and first-look data from the Nancy Grace Roman Space Telescope."
-description: "Practical details for the first Roman Rally, Dec 14-18, 2026, online and at Rally Rooms at 19 institutions. Participant sign-up opens Monday, Nov 2, 2026."
+description: "Practical details for the first Roman Rally, Dec 14-18, 2026, online and at Rally Rooms at 19 institutions. Participant sign-up is open."
 status: upcoming
 sort_date: "2026-12-14"
 date_display: "2026 Dec 14-18"
@@ -9,9 +9,9 @@ city: "Berkeley, Honolulu, Heidelberg, and 16 other sites"
 venue: "Rally Rooms at 19 institutions in the US and Germany"
 host_institution: "UC Berkeley, U Hawaii, and 17 further host sites"
 capacity: "Set with each host site"
-application_deadline: "Opens Monday Nov 2, 2026"
+application_deadline: "Sign-up is open; deadline to be announced"
 application_url: "https://docs.google.com/forms/d/1KZgV9BmCQiFieGkorWnvCNWMoyuz-FSELj9YmTKGAtw/viewform"
-application_open: false
+application_open: true
 funding: "No registration fee and no travel support"
 logistics: "Each Rally Room host shares local details once sites are finalized"
 show_banner: true
@@ -21,7 +21,7 @@ loc:
   - "Each host site names its local contact"
 ---
 
-The first Roman Rally focuses on commissioning data and the mission's first look at the sky. On the first morning people propose projects, form groups, and spend the rest of the week writing code, making plots, and comparing notes. Applications are not yet open.
+The first Roman Rally focuses on commissioning data and the mission's first look at the sky. On the first morning people propose projects, form groups, and spend the rest of the week writing code, making plots, and comparing notes. The participant sign-up form is open.
 
 ## Dates, place, and host
 
@@ -65,7 +65,7 @@ The following sites have signed up to host a Rally Room. Details for each room (
 
 ## How to apply
 
-The <a href="https://docs.google.com/forms/d/1KZgV9BmCQiFieGkorWnvCNWMoyuz-FSELj9YmTKGAtw/viewform">participant sign-up form</a> opens Monday, Nov 2, 2026. The deadline and the decision date will be posted then.
+The <a href="https://docs.google.com/forms/d/1KZgV9BmCQiFieGkorWnvCNWMoyuz-FSELj9YmTKGAtw/viewform">participant sign-up form</a> is open. The deadline and the decision date will be posted here.
 
 Which data products are in bounds, and under what rules, will be posted once the mission sets the public products for the week. The mission sets those rules. A Rally does not grant data rights.
 

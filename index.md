@@ -39,7 +39,7 @@ description: Hackathon focused on commissioning and first-look data from NASA's 
     </div>
     <div>
       <dt>Join</dt>
-      <dd><a href="https://docs.google.com/forms/d/1KZgV9BmCQiFieGkorWnvCNWMoyuz-FSELj9YmTKGAtw/viewform">Participant sign-up form</a> opens Monday, Nov 2, 2026. Details are on the <a href="{{ '/events/rally2026/' | relative_url }}">2026 Rally</a> page.</dd>
+      <dd><a href="https://docs.google.com/forms/d/1KZgV9BmCQiFieGkorWnvCNWMoyuz-FSELj9YmTKGAtw/viewform">Participant sign-up form</a> is open. Details are on the <a href="{{ '/events/rally2026/' | relative_url }}">2026 Rally</a> page.</dd>
     </div>
     <div>
       <dt>Host</dt>
