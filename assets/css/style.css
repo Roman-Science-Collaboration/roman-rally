@@ -416,6 +416,18 @@ h3 {
   letter-spacing: 0.03em;
 }
 
+.sites-map {
+  margin: 1rem 0;
+}
+
+.sites-map img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  border: 1px solid var(--line);
+}
+
 .table-wrap {
   overflow-x: auto;
   margin: 1rem 0 1.5rem;
