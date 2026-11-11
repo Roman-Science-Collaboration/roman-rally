@@ -466,6 +466,11 @@ h3 {
   text-align: right;
 }
 
+table.sites th:first-child,
+table.sites td:first-child {
+  min-width: 12rem;
+}
+
 code {
   font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
   font-size: 0.9em;
