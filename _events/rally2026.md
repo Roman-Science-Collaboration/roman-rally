@@ -59,7 +59,7 @@ The following sites have signed up to host a Rally Room. Details for each room (
     <tr><td>Tansu Daylan<br>Bryce Wedig<br>Aysu Ece Saricaoglu<br>Zifan Lin</td><td>Washington University</td><td>St. Louis, MO</td><td>WashU Danforth campus (TBD)</td><td>150</td></tr>
     <tr><td>Dan Huber<br>David Rubin</td><td>University of Hawaii</td><td>Honolulu, HI</td><td>IfA Manoa Library (C-108)</td><td>30</td></tr>
     <tr><td>Robyn Sanderson</td><td>University of Pennsylvania</td><td>Philadelphia, PA</td><td>David Rittenhouse Labs, 4N9/4N11</td><td>20</td></tr>
-    <tr><td>Axel Guinot<br>Rachel Mandelbaum</td><td>Carnegie Mellon University</td><td>Pittsburgh, PA</td><td>Wean Hall, Rm 8330</td><td>10</td></tr>
+    <tr><td>Axel Guinot<br>Rachel Mandelbaum</td><td>Carnegie Mellon University</td><td>Pittsburgh, PA</td><td>Doherty Hall, Rm A301D</td><td>30</td></tr>
     <tr><td>Mingyang Zhuang<br>Yue Shen</td><td>University of Illinois Urbana-Champaign</td><td>Urbana, IL</td><td>Astro Atlas room</td><td>15</td></tr>
     <tr><td>Jaclyn Jensen<br>Ryan Hickox<br>Quinn Casey<br>Stephanie Podjed</td><td>Dartmouth College</td><td>Hanover, NH</td><td>Wilder Hall, Rm 111</td><td>10</td></tr>
     <tr><td>Tim Eifler<br>Xiaohui Fan<br>Ilaria Pascucci</td><td>University of Arizona</td><td>Tucson, AZ</td><td>Steward Observatory, Arizona Cosmology Lab</td><td>40</td></tr>
