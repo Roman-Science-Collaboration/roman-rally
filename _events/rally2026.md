@@ -28,7 +28,7 @@ The first Roman Rally focuses on commissioning data and the mission's first look
 - Dates: <strong>2026 Dec 14-18</strong>
 - Venue: <strong>Rally Rooms (virtual and in-person) listed below</strong>
 
-Responses to the [host form](https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform) are due by Nov 20. The commitment is in [what it means to host a Rally Room]({{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}).
+Responses to the [host form](https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform) are due by Nov 20 (late host submissions are accepted). The commitment is in [what it means to host a Rally Room]({{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}).
 
 ## Sites signed up so far
 
