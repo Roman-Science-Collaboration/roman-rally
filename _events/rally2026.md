@@ -49,7 +49,7 @@ The following sites have signed up to host a Rally Room. Details for each room (
     <tr><td>Timothy Carleton</td><td>Arizona State University</td><td>Tempe, AZ</td><td>Goldwater Center, Rm 505</td><td>30</td></tr>
     <tr><td>Ben Rose<br>Hallie Fausey<br>Moonzarin Reza</td><td>Baylor University</td><td>Waco, TX</td><td>BRIC Center</td><td>40</td></tr>
     <tr><td>Jennifer Sobeck</td><td>Caltech / IPAC</td><td>Pasadena, CA</td><td>Keith Spalding Building (TBD)</td><td>30</td></tr>
-    <tr><td>Axel Guinot<br>Rachel Mandelbaum</td><td>Carnegie Mellon University</td><td>Pittsburgh, PA</td><td>Wean Hall, Rm 8330</td><td>10</td></tr>
+    <tr><td>Axel Guinot<br>Rachel Mandelbaum</td><td>Carnegie Mellon University</td><td>Pittsburgh, PA</td><td>Doherty Hall, Rm A301D</td><td>30</td></tr>
     <tr><td>Megan Masterson<br>Anya Nugent</td><td>CfA | Harvard &amp; Smithsonian</td><td>Cambridge, MA</td><td>Wolbach Meeting Room (CfA)</td><td>50</td></tr>
     <tr><td>Jaclyn Jensen<br>Ryan Hickox<br>Quinn Casey<br>Stephanie Podjed</td><td>Dartmouth College</td><td>Hanover, NH</td><td>Wilder Hall, Rm 111</td><td>10</td></tr>
     <tr><td>Dan Scolnic</td><td>Duke University</td><td>Durham, NC</td><td>Physics Building</td><td>25</td></tr>
