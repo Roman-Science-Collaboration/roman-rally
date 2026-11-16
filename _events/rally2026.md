@@ -28,7 +28,7 @@ The first Roman Rally focuses on commissioning data and the mission's first look
 - Dates: <strong>2026 Dec 14-18</strong>
 - Venue: <strong>Rally Rooms (virtual and in-person) listed below</strong>
 
-Responses to the [host form](https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform) are ideally due by Oct 30 (late host submissions are accepted). The commitment is in [what it means to host a Rally Room]({{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}).
+Responses to the [host form](https://docs.google.com/forms/d/1ovYDq2ZmVzcV_1i-PXOV6LtKhW3Cnx8XK-7muMQbAiA/viewform) are due by Nov 20 (late host submissions are accepted). The commitment is in [what it means to host a Rally Room]({{ '/handbook/#what-it-means-to-host-a-rally-room' | relative_url }}).
 
 ## Sites signed up so far
 
@@ -36,7 +36,7 @@ The following sites have signed up to host a Rally Room. Details for each room (
 
 <figure class="sites-map">
   <a href="{{ '/assets/images/roman-rally-locations.jpg' | relative_url }}">
-    <img src="{{ '/assets/images/roman-rally-locations.jpg' | relative_url }}" width="1024" height="646" alt="Map of Roman Rally locations across the United States: UC Berkeley, Stanford, Caltech / IPAC, Arizona State University, University of Arizona Steward Observatory, University of Hawaii, Baylor University, University of Minnesota, University of Illinois, WashU, University of Florida, Carnegie Mellon, OSU, University of Maryland, Space Telescope Science Institute, UPenn, Center for Astrophysics, and Dartmouth. An inset marks the Max Planck Institute for Astronomy in Heidelberg, Germany.">
+    <img src="{{ '/assets/images/roman-rally-locations.jpg' | relative_url }}" width="1024" height="646" alt="Map of Roman Rally locations across the United States: UC Berkeley, Stanford, Caltech / IPAC, Arizona State University, University of Arizona Steward Observatory, University of Hawaii, Baylor University, University of Minnesota, University of Illinois, WashU, University of Florida, Carnegie Mellon, OSU, University of Maryland, Space Telescope Science Institute, Duke University, UPenn, Center for Astrophysics, and Dartmouth. An inset marks the Max Planck Institute for Astronomy in Heidelberg, Germany.">
   </a>
 </figure>
 
@@ -46,26 +46,26 @@ The following sites have signed up to host a Rally Room. Details for each room (
     <tr><th>Hosts</th><th>Institution</th><th>City</th><th>Venue</th><th>Capacity</th></tr>
   </thead>
   <tbody>
-    <tr><td>David Weinberg<br>Scott Gaudi<br>Chris Hirata</td><td>Ohio State University</td><td>Columbus, OH</td><td>Physics Research Building</td><td>30</td></tr>
-    <tr><td>Adam Ginsburg</td><td>University of Florida</td><td>Gainesville, FL</td><td>Bryant Space Science Center, Rm 401</td><td>20</td></tr>
-    <tr><td>Jesse Han</td><td>Stanford / KIPAC</td><td>Palo Alto, CA</td><td>PAB fishbowl</td><td>20</td></tr>
-    <tr><td>Megan Masterson<br>Anya Nugent</td><td>CfA | Harvard &amp; Smithsonian</td><td>Cambridge, MA</td><td>CfA conference room (TBD)</td><td>30</td></tr>
-    <tr><td>Jessica Lu</td><td>UC Berkeley Astronomy</td><td>Berkeley, CA</td><td>Campbell Hall, Rm 131</td><td>50</td></tr>
     <tr><td>Timothy Carleton</td><td>Arizona State University</td><td>Tempe, AZ</td><td>Goldwater Center, Rm 505</td><td>30</td></tr>
-    <tr><td>Aimee Schechter</td><td>University of Minnesota</td><td>Minneapolis, MN</td><td>Tate Hall, Rm 201/301</td><td>45</td></tr>
-    <tr><td>Tathagata Pal<br>Charlie Mpetha<br>Isak G. Wold<br>Rosalia D. O'Brien</td><td>University of Maryland</td><td>College Park, MD</td><td>University of Maryland (TBD)</td><td>20</td></tr>
-    <tr><td>Edward Schlafly<br>Erik Tollerud</td><td>Space Telescope Science Institute</td><td>Baltimore, MD</td><td>STScI (TBD)</td><td>10</td></tr>
     <tr><td>Ben Rose<br>Hallie Fausey<br>Moonzarin Reza</td><td>Baylor University</td><td>Waco, TX</td><td>Hurd Welcome Center</td><td>25</td></tr>
-    <tr><td>Tansu Daylan<br>Bryce Wedig<br>Aysu Ece Saricaoglu<br>Zifan Lin</td><td>Washington University</td><td>St. Louis, MO</td><td>WashU Danforth campus (TBD)</td><td>150</td></tr>
-    <tr><td>Dan Huber<br>David Rubin</td><td>University of Hawaii</td><td>Honolulu, HI</td><td>IfA Manoa Library (C-108)</td><td>30</td></tr>
-    <tr><td>Robyn Sanderson</td><td>University of Pennsylvania</td><td>Philadelphia, PA</td><td>David Rittenhouse Labs, 4N9/4N11</td><td>20</td></tr>
-    <tr><td>Axel Guinot<br>Rachel Mandelbaum</td><td>Carnegie Mellon University</td><td>Pittsburgh, PA</td><td>Doherty Hall, Rm A301D</td><td>30</td></tr>
-    <tr><td>Mingyang Zhuang<br>Yue Shen</td><td>University of Illinois Urbana-Champaign</td><td>Urbana, IL</td><td>Astro Atlas room</td><td>15</td></tr>
-    <tr><td>Jaclyn Jensen<br>Ryan Hickox<br>Quinn Casey<br>Stephanie Podjed</td><td>Dartmouth College</td><td>Hanover, NH</td><td>Wilder Hall, Rm 111</td><td>10</td></tr>
-    <tr><td>Tim Eifler<br>Xiaohui Fan<br>Ilaria Pascucci</td><td>University of Arizona</td><td>Tucson, AZ</td><td>Steward Observatory, Arizona Cosmology Lab</td><td>40</td></tr>
     <tr><td>Jennifer Sobeck</td><td>Caltech / IPAC</td><td>Pasadena, CA</td><td>Keith Spalding Building (TBD)</td><td>30</td></tr>
-    <tr><td>Ivelina Momcheva</td><td>Max Planck Institute for Astronomy (MPIA)</td><td>Heidelberg, Germany</td><td>MPIA Seminar Room (visitors must register with the hosts in advance)</td><td>20</td></tr>
+    <tr><td>Axel Guinot<br>Rachel Mandelbaum</td><td>Carnegie Mellon University</td><td>Pittsburgh, PA</td><td>Wean Hall, Rm 8330</td><td>10</td></tr>
+    <tr><td>Megan Masterson<br>Anya Nugent</td><td>CfA | Harvard &amp; Smithsonian</td><td>Cambridge, MA</td><td>Wolbach Meeting Room (CfA)</td><td>50</td></tr>
+    <tr><td>Jaclyn Jensen<br>Ryan Hickox<br>Quinn Casey<br>Stephanie Podjed</td><td>Dartmouth College</td><td>Hanover, NH</td><td>Wilder Hall, Rm 111</td><td>10</td></tr>
     <tr><td>Dan Scolnic</td><td>Duke University</td><td>Durham, NC</td><td>Physics Building</td><td>25</td></tr>
+    <tr><td>Ivelina Momcheva</td><td>Max Planck Institute for Astronomy (MPIA)</td><td>Heidelberg, Germany</td><td>MPIA Seminar Room (visitors must register with the hosts in advance)</td><td>20</td></tr>
+    <tr><td>David Weinberg<br>Scott Gaudi<br>Chris Hirata</td><td>Ohio State University</td><td>Columbus, OH</td><td>Physics Research Building</td><td>30</td></tr>
+    <tr><td>Edward Schlafly<br>Erik Tollerud</td><td>Space Telescope Science Institute</td><td>Baltimore, MD</td><td>STScI (TBD)</td><td>10</td></tr>
+    <tr><td>Jesse Han</td><td>Stanford / KIPAC</td><td>Palo Alto, CA</td><td>PAB fishbowl</td><td>20</td></tr>
+    <tr><td>Jessica Lu</td><td>UC Berkeley Astronomy</td><td>Berkeley, CA</td><td>Campbell Hall, Rm 131</td><td>50</td></tr>
+    <tr><td>Tim Eifler<br>Xiaohui Fan<br>Ilaria Pascucci</td><td>University of Arizona</td><td>Tucson, AZ</td><td>Steward Observatory, Arizona Cosmology Lab</td><td>40</td></tr>
+    <tr><td>Adam Ginsburg</td><td>University of Florida</td><td>Gainesville, FL</td><td>Bryant Space Science Center, Rm 401</td><td>20</td></tr>
+    <tr><td>Dan Huber<br>David Rubin</td><td>University of Hawaii</td><td>Honolulu, HI</td><td>IfA Manoa Library (C-108)</td><td>30</td></tr>
+    <tr><td>Mingyang Zhuang<br>Yue Shen</td><td>University of Illinois Urbana-Champaign</td><td>Urbana, IL</td><td>Astro Atlas room</td><td>15</td></tr>
+    <tr><td>Tathagata Pal<br>Charlie Mpetha<br>Isak G. Wold<br>Rosalia D. O'Brien</td><td>University of Maryland</td><td>College Park, MD</td><td>University of Maryland (TBD)</td><td>20</td></tr>
+    <tr><td>Aimee Schechter</td><td>University of Minnesota</td><td>Minneapolis, MN</td><td>Tate Hall, Rm 201/301</td><td>45</td></tr>
+    <tr><td>Robyn Sanderson<br>Mike Jarvis<br>Adrien Thob<br>Cole Meldorf</td><td>University of Pennsylvania</td><td>Philadelphia, PA</td><td>David Rittenhouse Labs, 4N9/4N11</td><td>20</td></tr>
+    <tr><td>Tansu Daylan<br>Bryce Wedig<br>Aysu Ece Saricaoglu<br>Zifan Lin</td><td>Washington University</td><td>St. Louis, MO</td><td>WashU Danforth campus (TBD)</td><td>150</td></tr>
   </tbody>
 </table>
 </div>
